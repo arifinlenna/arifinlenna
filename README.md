@@ -4,7 +4,7 @@
          src="https://github-readme-stats.vercel.app/api?username=arifinlenna&show_icons=true&theme=radical"
          alt="Github Stats"
          align="center"
-         height="140"
+         height="190"
      />
   </a>
 </p>
