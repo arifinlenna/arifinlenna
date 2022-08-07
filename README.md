@@ -1,3 +1,15 @@
+<p>
+  <a href="https://github.com/arifinlenna">
+    <img
+         src="https://github-readme-stats.vercel.app/api?username=arifinlenna&show_icons=true&theme=prussian&border_radius=24"
+         alt="Github Stats"
+         align="center"
+         height="140"
+     />
+  </a>
+</p>
+
+## about me
 - Hi, I'm @arifinlenna
 - I'm interested in programming
 - I'm learning coding
