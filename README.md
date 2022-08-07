@@ -1,7 +1,7 @@
 <p>
   <a href="https://github.com/arifinlenna">
     <img
-         src="https://github-readme-stats.vercel.app/api?username=arifinlenna&show_icons=true&theme=darcula"
+         src="https://github-readme-stats.vercel.app/api?username=arifinlenna&show_icons=true&theme=radical"
          alt="Github Stats arifin lenna"
          align="center"
          height="190"
